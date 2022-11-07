@@ -43,4 +43,4 @@ frq(CEP$confianza_6_i)
 frq(CEP$confianza_6_k)
 
 #Recodificacion de variables----------------------------------------------------
-
+##Agregar v_2
